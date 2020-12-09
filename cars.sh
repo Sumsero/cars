@@ -2,6 +2,8 @@
 # cars.sh
 # Peter Smith
 
+echo "test"
+
 while [ True ]
 do
 
