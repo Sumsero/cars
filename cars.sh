@@ -2,7 +2,9 @@
 # cars.sh
 # Peter Smith
 
-while [ $True ]
+ALWAYS_TRUE=1
+
+while [ "$ALWAYS_TRUE" ]
 do
 
     echo "1 - add car"
